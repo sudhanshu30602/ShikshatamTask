@@ -21,7 +21,7 @@ npm install
 
 ### 2. Setup up your app
 
-Get your Movie API key from https://developers.themoviedb.org/3
+Get your Movie API key from https://developers.RapidAPI 
 
 - create a .env file in your root folder and
 - Open the `.env` file in your and fill in the credentials.
